@@ -29,8 +29,7 @@
    - Replace or remove emojis to standardize textual representation.
 
 ### 10. **Chat Shortform Handling**
-   - Expand common abbreviations and shortforms used in chats (e.g., "u" → "you", "gr8" → "great").
+   - Expand common abbreviations and shortforms used in chats (e.g., "EOD" → "End OF Day", "ASAP" → "As Soon As Possible").
 
 ### 11. **Incorrect Text Handling**
    - Identify and correct spelling errors or typos to enhance text quality.
-
