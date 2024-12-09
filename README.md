@@ -1,35 +1,42 @@
 # GenerativeAI
 # STEP 1: Text Preprocessing Techniques
 
-### 1. **Lowercasing**
-   - Convert all text to lowercase to ensure uniformity and reduce variations caused by case differences.
+ 1. **Lowercasing**
 
-### 2. **Punctuation Handling**
-   - Remove or handle punctuation marks to streamline text processing and focus on meaningful tokens.
+ 2. **Punctuation Handling**
 
-### 3. **Stopword Removal**
-   - Eliminate commonly used words (e.g., "and", "the") that do not add significant meaning to the text.
+ 3. **Stopword Removal**
 
-### 4. **Tokenization**
-   - Split text into smaller units (tokens), such as words or sentences, to facilitate analysis.
+ 4. **Tokenization**
 
-### 5. **Stemming**
-   - Reduce words to their root forms by removing suffixes (e.g., "running" → "run").
+ 5. **Stemming**
 
-### 6. **Lemmatization**
-   - Convert words to their base or dictionary form using context (e.g., "better" → "good").
+ 6. **Lemmatization**
 
-### 7. **URL Removal**
-   - Strip out URLs to prevent irrelevant data from affecting analysis.
+ 7. **URL Removal**
 
-### 8. **HTML Tag Removal**
-   - Remove HTML tags to clean text extracted from web pages.
+ 8. **HTML Tag Removal**
 
-### 9. **Emoji Handling**
-   - Replace or remove emojis to standardize textual representation.
+ 9. **Emoji Handling**
 
-### 10. **Chat Shortform Handling**
-   - Expand common abbreviations and shortforms used in chats (e.g., "EOD" → "End OF Day", "ASAP" → "As Soon As Possible").
+ 10. **Chat Shortform Handling**
 
-### 11. **Incorrect Text Handling**
-   - Identify and correct spelling errors or typos to enhance text quality.
+ 11. **Incorrect Text Handling**
+
+# STEP 1: Test-Representation Word-Embedding
+
+## Basic : https://colab.research.google.com/drive/1UOhhpeWfdx994mQubrqRZ6eesOm58Tz5?usp=sharing   
+
+ 1. **BoW**
+
+ 2. **N-grams**
+
+ 3. **TF-IDF**
+
+## Advance :
+
+ 5. **Word2vector** : https://colab.research.google.com/drive/1tzN3fLysDmGUVT_tk5iZNzo8dusrhvXh?usp=sharing
+
+ 6. **Glove** : https://colab.research.google.com/drive/1PzlX4H5R1wrUbRbL8xHWLINNJNfZR-vI?usp=sharing
+
+ 7. **FastText** : https://colab.research.google.com/drive/1yQ3NPbzJoiOKb2ic8RNBecvwWkaeC5Sn?usp=sharing
