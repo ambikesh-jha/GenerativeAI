@@ -35,8 +35,8 @@ https://colab.research.google.com/drive/1UOhhpeWfdx994mQubrqRZ6eesOm58Tz5?usp=sh
 
 ## Advance :
 
- 5. **Word2vector** : https://colab.research.google.com/drive/1tzN3fLysDmGUVT_tk5iZNzo8dusrhvXh?usp=sharing
+ 1. **Word2vector** : https://colab.research.google.com/drive/1tzN3fLysDmGUVT_tk5iZNzo8dusrhvXh?usp=sharing
 
- 6. **Glove** : https://colab.research.google.com/drive/1PzlX4H5R1wrUbRbL8xHWLINNJNfZR-vI?usp=sharing
+ 2. **Glove** : https://colab.research.google.com/drive/1PzlX4H5R1wrUbRbL8xHWLINNJNfZR-vI?usp=sharing
 
- 7. **FastText** : https://colab.research.google.com/drive/1yQ3NPbzJoiOKb2ic8RNBecvwWkaeC5Sn?usp=sharing
+ 3. **FastText** : https://colab.research.google.com/drive/1yQ3NPbzJoiOKb2ic8RNBecvwWkaeC5Sn?usp=sharing
