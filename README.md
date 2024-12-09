@@ -25,8 +25,8 @@
 
 # STEP 1: Test-Representation Word-Embedding
 
-## Basic : https://colab.research.google.com/drive/1UOhhpeWfdx994mQubrqRZ6eesOm58Tz5?usp=sharing   
-
+## Basic :    
+https://colab.research.google.com/drive/1UOhhpeWfdx994mQubrqRZ6eesOm58Tz5?usp=sharing
  1. **BoW**
 
  2. **N-grams**
